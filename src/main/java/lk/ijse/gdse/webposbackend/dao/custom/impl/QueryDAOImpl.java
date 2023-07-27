@@ -1,10 +1,8 @@
 package lk.ijse.gdse.webposbackend.dao.custom.impl;
 
 import lk.ijse.gdse.webposbackend.dao.custom.QueryDAO;
-import lk.ijse.gdse.webposbackend.dao.exception.ConstrainViolationException;
 import lk.ijse.gdse.webposbackend.dao.util.DBUtil;
 import lk.ijse.gdse.webposbackend.dto.ItemDTO;
-import lk.ijse.gdse.webposbackend.dto.OrderDTO;
 import lk.ijse.gdse.webposbackend.dto.RecentOrderDetailsDTO;
 
 import java.sql.Connection;
